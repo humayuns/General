@@ -470,7 +470,7 @@ y := x asSet.                                               "convert to set coll
 ```
 
 ## SortedCollection:
-like OrderedCollection except order of elements determined by sorting criteria
+like `OrderedCollection` except order of elements determined by sorting criteria
  ```smalltalk
 | b x y sum max |
 x := SortedCollection with: 4 with: 3 with: 2 with: 1.      "create collection with up to 4 elements"
@@ -513,7 +513,7 @@ y := x asSet.                                               "convert to set coll
 ```
 
 ## Bag:
-like OrderedCollection except elements are in no particular order
+like `OrderedCollection` except elements are in no particular order
 ```smalltalk
 | b x y sum max |
 x := Bag with: 4 with: 3 with: 2 with: 1.                   "create collection with up to 4 elements"
@@ -545,7 +545,7 @@ y := x asSet.                                               "convert to set coll
 ```
 
 ## Sets
- * Set:           like Bag except duplicates not allowed
+ * Set:           like `Bag` except duplicates not allowed
  * IdentitySet:   uses identity test (== rather than =)
 ```smalltalk
 | b x y sum max |
