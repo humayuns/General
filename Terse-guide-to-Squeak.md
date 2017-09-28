@@ -36,3 +36,17 @@
 "Comments are enclosed in quotes"
 "Period (.) is the statement seperator"
 ```
+
+## Transcript
+```smalltalk
+Transcript clear.                                           "clear to transcript window"
+Transcript show: 'Hello World'.                             "output string in transcript window"
+Transcript nextPutAll: 'Hello World'.                       "output string in transcript window"
+Transcript nextPut: $A.                                     "output character in transcript window"
+Transcript space.                                           "output space character in transcript window"
+Transcript tab.                                             "output tab character in transcript window"
+Transcript cr.                                              "carriage return / linefeed"
+'Hello' printOn: Transcript.                                "append print string into the window"
+'Hello' storeOn: Transcript.                                "append store string into the window"
+Transcript endEntry.                                        "flush the output buffer"
+```
