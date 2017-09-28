@@ -241,7 +241,8 @@ Transcript show: (x value: 'First' value: 'Second'); cr.    "use block with argu
     - binary methods
     - keyword methods are messages with selectors including colons
  
- **standard categories/protocols:**
+**standard categories/protocols:**
+
     - initialize-release    (methods called for new instance)
     - accessing             (get/set methods)
     - testing               (boolean tests - is)
