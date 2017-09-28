@@ -1,12 +1,6 @@
 # Terse guide to Squeak
 
-Original: http://wiki.squeak.org/squeak/5699
-
-A very terse but invaluable aide-memoire, running through all the main features of the language and environment (actually Smalltalk, but only the CMRDictionary references seem problematic).
-
-The original was created by Chris Rathman, at http://www.angelfire.com/tx4/cus/notes/smalltalk.html
-
-There's a formatted version at http://squeak.joyful.com/LanguageNotes
+**Original: http://wiki.squeak.org/squeak/5699 **
 
 ## Allowable characters
 
