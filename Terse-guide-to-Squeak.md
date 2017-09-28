@@ -1,6 +1,6 @@
 # Terse guide to Squeak
 
-**Original: http://wiki.squeak.org/squeak/5699 **
+**Original: http://wiki.squeak.org/squeak/5699**
 
 ## Allowable characters
 
