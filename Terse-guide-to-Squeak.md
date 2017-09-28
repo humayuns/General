@@ -5,11 +5,11 @@
 ## Allowable characters
 
 **Allowable characters:**
- - a-z                                                             
- - A-Z                                                             
- - 0-9                                                             
- - .+/\~<>@%|&?                                                   
- - blank, tab, cr, ff, lf                                          
+ - a-z
+ - A-Z
+ - 0-9
+ - .+/\~<>@%|&?
+ - blank, tab, cr, ff, lf
 																   
 **Variables:**
  - variables must be declared before use                           
@@ -240,7 +240,8 @@ Transcript show: (x value: 'First' value: 'Second'); cr.    "use block with argu
     - unary methods are messages with no arguments
     - binary methods
     - keyword methods are messages with selectors including colons
- standard categories/protocols:
+ 
+ **standard categories/protocols:**
     - initialize-release    (methods called for new instance)
     - accessing             (get/set methods)
     - testing               (boolean tests - is)
