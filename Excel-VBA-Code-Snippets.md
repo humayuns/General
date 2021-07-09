@@ -1,7 +1,7 @@
 # Excel/VBA Code snippets
 
-## Select from first to last used row.
+### Select from first to last used row.
 
-```vba
+```vb
 Range("A1").End(xlDown).Select
 ```
