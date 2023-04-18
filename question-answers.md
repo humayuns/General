@@ -1,4 +1,6 @@
-explain basics of pything using 5 code examples.
+# Question and Answers
+
+## explain basics of pything using 5 code examples.
 
 Sure, here are 5 basic Python code examples that explain some of the fundamental concepts of the language:
 
@@ -62,3 +64,20 @@ print(result)
 ```
 
 This program defines a function called "add_numbers" that takes two arguments and returns their sum. It then calls the function with the arguments 5 and 10 and assigns the result to the variable "result". Finally, it prints the value of result to the console.
+
+## write list of main python features in a table
+
+Sure, here's a table listing some of the main features of Python:
+
+| Feature | Description |
+| --- | --- |
+| Easy to Learn | Python has a simple syntax and is easy to learn for beginners. |
+| Interpreted | Python is an interpreted language, which means that code can be executed directly without the need for compilation. |
+| Object-Oriented | Python supports object-oriented programming, which allows for the creation of reusable code and modular programs. |
+| Dynamic Typing | Python is dynamically typed, which means that variable types are determined at runtime. |
+| Cross-Platform | Python code can run on multiple platforms, including Windows, macOS, and Linux. |
+| Large Standard Library | Python comes with a large standard library that provides many useful modules and functions for common tasks. |
+| Third-Party Libraries | Python has a vast ecosystem of third-party libraries that can be easily installed and used in projects. |
+| High-Level Language | Python is a high-level language, which means that it abstracts away low-level details and provides a simpler interface for programming. |
+| Garbage Collection | Python has automatic garbage collection, which means that memory management is handled by the interpreter. |
+| Exception Handling | Python has built-in support for exception handling, which allows for graceful error handling and recovery. |
